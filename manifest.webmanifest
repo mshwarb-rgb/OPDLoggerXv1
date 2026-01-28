@@ -1,0 +1,9 @@
+{
+  "name": "OPD LoggerX",
+  "short_name": "OPD LoggerX",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#0f766e",
+  "icons": []
+}
